@@ -28,7 +28,7 @@ model, tokenizer = FastLanguageModel.from_pretrained(
 )
 ```
 
-**🤗 Model Hub**: [huseyincavus/qwen3-30b-finance-lora](https://huggingface.co/huseyincavus/qwen3-30b-finance-lora)
+**🤗 Model Hub**: [huseyincavus/qwen3-14b-finance-lora](https://huggingface.co/huseyincavus/qwen3-14b-finance-lora)
 
 ## Training Results
 
