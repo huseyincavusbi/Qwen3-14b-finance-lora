@@ -63,6 +63,7 @@ The fine-tuning process achieved stable convergence with comprehensive W&B monit
 - **Conversational**: ChatML formatting for natural interactions
 - **Comprehensive**: Trained on 500k+ financial instructions
 
+## Model on [Hugging Face](https://huggingface.co/huseyincavus/qwen3-14b-finance-lora)
 ---
 
 **Built with**: Unsloth, Transformers, TRL, LoRA fine-tuning, and Weights & Biases monitoring
